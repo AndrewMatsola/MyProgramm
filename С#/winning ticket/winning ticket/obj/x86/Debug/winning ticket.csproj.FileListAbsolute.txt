@@ -1,0 +1,5 @@
+C:\Users\Danis92\Documents\SharpDevelop Projects\winning ticket\winning ticket\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Danis92\Documents\SharpDevelop Projects\winning ticket\winning ticket\bin\Debug\winning ticket.exe
+C:\Users\Danis92\Documents\SharpDevelop Projects\winning ticket\winning ticket\bin\Debug\winning ticket.pdb
+C:\Users\Danis92\Documents\SharpDevelop Projects\winning ticket\winning ticket\obj\x86\Debug\winning ticket.exe
+C:\Users\Danis92\Documents\SharpDevelop Projects\winning ticket\winning ticket\obj\x86\Debug\winning ticket.pdb
