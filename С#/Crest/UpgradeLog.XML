@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Crest">
+</Property><Property Name="Файл решения" Value="J:\C# Sharp\project\Crest\Crest.sln">
+</Property><Property Name="Date" Value="13 апреля 2013 г.">
+</Property><Property Name="Time" Value="17:36">
+</Property></Properties><Event ErrorLevel="0" Project="Crest" Source="Crest\Crest.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Crest" Source="Crest\Crest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Crest.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Crest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Crest" Source="Crest\Crest.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

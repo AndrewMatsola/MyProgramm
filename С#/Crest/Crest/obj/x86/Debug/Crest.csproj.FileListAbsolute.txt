@@ -1,0 +1,19 @@
+F:\C# Sharp\project\Crest\Crest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Sharp\project\Crest\Crest\obj\x86\Debug\Crest.MainForm.resources
+F:\C# Sharp\project\Crest\Crest\obj\x86\Debug\Crest.csproj.GenerateResource.Cache
+F:\C# Sharp\project\Crest\Crest\bin\Debug\Crest.exe
+F:\C# Sharp\project\Crest\Crest\bin\Debug\Crest.pdb
+F:\C# Sharp\project\Crest\Crest\obj\x86\Debug\Crest.exe
+F:\C# Sharp\project\Crest\Crest\obj\x86\Debug\Crest.pdb
+J:\C# Sharp\project\Crest\Crest\obj\x86\Debug\Crest.exe
+J:\C# Sharp\project\Crest\Crest\obj\x86\Debug\Crest.pdb
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\Crest.exe
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\Crest.pdb
+J:\С# Visual Studio\Projects\Crest\Crest\bin\Debug\Crest.exe
+J:\С# Visual Studio\Projects\Crest\Crest\bin\Debug\Crest.pdb
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\Crest.MainForm.resources
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\Crest.Properties.Resources.resources
+J:\С# Visual Studio\Projects\Crest\Crest\obj\x86\Debug\Crest.AboutBox1.resources
